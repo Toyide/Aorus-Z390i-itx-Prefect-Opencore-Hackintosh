@@ -34,5 +34,5 @@
 - Wifi speed
 
 ### Useful Links
-[USB mapping](https://www.tonymacx86.com/threads/the-new-beginners-guide-to-usb-port-configuration.286553/)
-[OpenIntelWireless](https://github.com/OpenIntelWireless) (Awesome project!)
+- [USB mapping](https://www.tonymacx86.com/threads/the-new-beginners-guide-to-usb-port-configuration.286553/)
+- [OpenIntelWireless](https://github.com/OpenIntelWireless) (Awesome project!)
