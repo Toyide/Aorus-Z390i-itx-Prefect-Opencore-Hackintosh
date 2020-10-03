@@ -23,7 +23,7 @@
 - 2.enable onboard wifi
 - 3.turn off above 4g Decoding (I crashed my bios everytime when enable it)
 (or check other guides for bios setting if you can't get to post.)
-- 4.modify cogfig to your own serial number, MLB, SystemUUID.
+- 4.modify config to your own serial number, MLB, SystemUUID.
 - 5.move files to EFI folder on your usb driver or internal drive
 
 ### Note
