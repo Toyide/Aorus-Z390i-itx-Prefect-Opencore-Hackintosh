@@ -1,7 +1,7 @@
-### * Jan 22 2021 update:
+### * Jan 22, 2021 update:
 - Upgraded Opencore, supporting BigSur
 - Upgraded wifi card driver, download speed is much faster
-
+- For catalina, check Oct 2, 2020 Commits
 
 # Aorus-Z390i-itx-Prefect-Opencore-Hackintosh
 
