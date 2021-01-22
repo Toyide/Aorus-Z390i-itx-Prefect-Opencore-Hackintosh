@@ -1,3 +1,8 @@
+### * Jan 22 2021 update:
+- Upgraded Opencore, supporting BigSur
+- Upgraded wifi card driver, download speed is much faster
+
+
 # Aorus-Z390i-itx-Prefect-Opencore-Hackintosh
 
 - On board wifi and bluetooth, no need swap wifi cards
